@@ -11,7 +11,7 @@ const Close = ({setClose}) => {
       
   return (
     <>
-        <div className='w-[100vw] h-[100vh]  bg-[#000000] bg-opacity-[80%]   flex justify-center items-center overflow-x-hidden'>
+        <div className='w-[100vw] h-[100vh] mx-auto   bg-[#000000] bg-opacity-[80%]   flex justify-center items-center overflow-x-hidden'>
             <div className='w-[476px]  bg-white  p-[20px] rounded-[12px] flex flex-col gap-[24px]'>
                 <div className='flex justify-between items-center'>
                     <h1 className='text-[24px] font-[500] text-[#000000]'>Close account</h1>
